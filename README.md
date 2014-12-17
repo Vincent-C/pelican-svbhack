@@ -1,7 +1,7 @@
 Yet Another Svbtle-Inspired Pelican Theme
 =========================================
 
-[pelican-yasvbtle](https://github.com/Vincent-C/pelican-svbhack) is *yet another* responsive, svbtle-inspired theme for [Pelican](http://getpelican.com). It was forked from Carey Metcalfe's [pelican-subtle](https://github.com/pR0Ps/pelican-svbhack), which was in turn based on Giulio Fidente's [pelican-svbhack](https://github.com/giulivo/pelican-svbhack) theme.
+[pelican-yasvbtle](https://github.com/Vincent-C/pelican-svbhack) is *yet another* responsive, svbtle-inspired theme for [Pelican](http://getpelican.com). It was forked from Carey Metcalfe's [pelican-subtle](https://github.com/pR0Ps/pelican-subtle), which was in turn based on Giulio Fidente's [pelican-svbhack](https://github.com/giulivo/pelican-svbhack) theme.
 
 I do not intend on making any significant cosmetic changes to pelican-subtle (it's almost exactly what I was looking for in a theme!), so changes made in this repository are unlikely to be of any interest to anyone aside from myself. Credit for this theme should go to Carey Metcalfe and Giulio Fidente.
 
@@ -21,7 +21,7 @@ You can see the theme in action on [my site](http://www.vcheng.org/), Carey Metc
 
 ## Installing
 
-Clone the [repository](https://github.com/pR0Ps/pelican-svbhack), edit your `pelicanconf.py` and modify the `THEME` variable to point to the downloaded theme location.
+Clone the [repository](https://github.com/pR0Ps/pelican-subtle), edit your `pelicanconf.py` and modify the `THEME` variable to point to the downloaded theme location.
 
 ## pelicanconf.py
 
